@@ -14,7 +14,7 @@ button {
 a:hover li {
   text-decoration: underline;
   cursor: pointer;
-  background-color: #f3976c;
+  background-color: #f36727;
 }
 #page-loading-blocs-notifaction {
   position: fixed;
@@ -127,7 +127,7 @@ a:hover li {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-  color: rgba(255, 255, 255, 0.6);
+  color: white;
 }
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
@@ -143,7 +143,7 @@ a:hover li {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-  color: rgba(255, 255, 255, 1);
+  color: black;
 }
 .d-bloc .navbar-toggle .icon-bar {
   background: rgba(255, 255, 255, 1);
@@ -678,17 +678,17 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #f36727;
+  background-color: #b63d05;
 }
 .tc-white {
   color: white !important;
 }
 .btn-atomic-tangerine {
-  background: #f36727;
-  color: #ffffff !important;
+  background: #ffffff;
+  color: #b63d05 !important;
 }
 .btn-atomic-tangerine:hover {
-  background: #f36727 !important;
+  background: #b63d05 !important;
   color: #ffffff !important;
 }
 .ltc-white {
@@ -698,10 +698,10 @@ h4 {
   color: #cccccc !important;
 }
 .ltc-atomic-tangerine {
-  color: #f36727 !important;
+  color: #b63d05 !important;
 }
 .ltc-atomic-tangerine:hover {
-  color: #f36727 !important;
+  color: #b63d05 !important;
 }
 
 .bg-dots-bg {
